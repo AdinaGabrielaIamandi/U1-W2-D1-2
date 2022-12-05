@@ -13,12 +13,14 @@ REGOLE
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let numb1 = 10; // Questa è una variabile che contiene un valore numerico intero
-let numb2 = 1.25; // Questa è una variabile che contiene un valore numerico decimale
-let nomeMio = "Gabriela"; // questa è una variabile che contiene un valore stringa (cioè del testo)
-let numb3 = "3"; // Questa è una variabile che contiene un valore stringa (in questo caso il numero '3' viene interpretato come testo)
-let admin1 = true; // Questa è una variabile che contiene un valore booleano (vero - true)
-let admin2 = false; // Questa è una stringa che contiene un valore booleano (falso - false)
+let n1 = 10; // Questa è una variabile che contiene un valore numerico intero
+let n2 = 1.25; // Questa è una variabile che contiene un valore numerico decimale
+let n3 = "Gabriela"; // questa è una variabile che contiene un valore stringa (cioè del testo)
+let n4 = "3"; // Questa è una variabile che contiene un valore stringa (in questo caso il numero '3' viene interpretato come testo)
+let n5 = true; // Questa è una variabile che contiene un valore booleano (vero - true)
+let n6 = false; // Questa è una stringa che contiene un valore booleano (falso - false)
+let n7 = null; // Questo è un codice che viene inserito quando il valore della variabile è vuoto
+let n8 = undefined; // Questo è un codice che viene inserito quando il valore della variabile non è ancora stato assegnato
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
