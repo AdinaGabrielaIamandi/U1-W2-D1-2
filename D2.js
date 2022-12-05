@@ -13,7 +13,7 @@ REGOLE
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let numb1 = 10; // questa è una variabile che contiene un valore numerico intero
+let numb1 = 10; // Questa è una variabile che contiene un valore numerico intero
 let numb2 = 1.25; // Questa è una variabile che contiene un valore numerico decimale
 let nomeMio = "Gabriela"; // questa è una variabile che contiene un valore stringa (cioè del testo)
 let numb3 = "3"; // Questa è una variabile che contiene un valore stringa (in questo caso il numero '3' viene interpretato come testo)
@@ -38,6 +38,11 @@ let number1 = 12;
 let number2 = 20;
 console.log(number1 + number2);
 
+//Oppure
+
+let risultato = number1 + number2;
+console.log(risultato);
+
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
@@ -53,11 +58,26 @@ let x = 12;
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+name = "Iamandi";
+console.log(name);
+const nome = "Adina";
+/* console.log(nome); --> In questo caso nel terminale si visualizzerà il valore della const name2 (cioè "Adina")
+nome = "Francesca";
+console.log(nome); --> Adesso invece nel terminale si visualizzerà un errore nella riassegnazione di un nuovo valore alla const name2
+
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+let numero = 4;
+console.log(numero - x);
+
+// Oppure
+
+let risultato2 = numero - x;
+console.log(risultato2);
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -66,3 +86,9 @@ let x = 12;
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+let name1 = "jhon";
+let name2 = "Jhon";
+console.log(name1 === name2);
+
+console.log(name1.toLowerCase === name2.toLowerCase);
