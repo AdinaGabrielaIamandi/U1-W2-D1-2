@@ -62,10 +62,10 @@ let x = 12;
 
 name = "Iamandi";
 console.log(name);
-const nome = "Adina";
-/* console.log(nome); --> In questo caso nel terminale si visualizzerà il valore della const name2 (cioè "Adina")
-nome = "Francesca";
-console.log(nome); --> Adesso invece nel terminale si visualizzerà un errore nella riassegnazione di un nuovo valore alla const name2
+const nomeMio = "Adina";
+console.log(nomeMio); //--> In questo caso nel terminale si visualizzerà il valore della const name2 (cioè "Adina")
+/* nomeMio = "Francesca";
+console.log(nomeMio); //--> Adesso invece nel terminale si visualizzerà un errore nella riassegnazione di un nuovo valore alla const name2
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
