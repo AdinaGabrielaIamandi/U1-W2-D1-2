@@ -13,6 +13,12 @@ REGOLE
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+let numb1 = 10; // questa è una variabile che contiene un valore numerico intero
+let numb2 = 1.25; // Questa è una variabile che contiene un valore numerico decimale
+let nomeMio = "Adina"; // questa è una variabile che contiene un valore stringa (cioè del testo)
+let admin = true; // Questa è una variabile che contiene un valore booleano (vero - true)
+let admin = false; // Questa è una stringa che contiene un valore booleano (falso - false)
+
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
