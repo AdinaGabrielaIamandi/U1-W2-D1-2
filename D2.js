@@ -34,11 +34,17 @@ let name = "Adina";
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
+let number1 = 12;
+let number2 = 20;
+console.log(number1 + number2);
+
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+let x = 12;
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
